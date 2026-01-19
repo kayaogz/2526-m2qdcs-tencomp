@@ -1,5 +1,7 @@
 # 2526-m2qdcs-tencomp
 
+Please make sure that your name appears in the list of registered students (if not please add it): https://cirrus.universite-paris-saclay.fr/s/2n5beYA2eMMoXmJ
+
 ## Session 1: Overview of matrix computations and tensors
 
 ## Session 2: Matrix computations (cont.) and tensor decompositions
