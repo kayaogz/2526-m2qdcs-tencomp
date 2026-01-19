@@ -26,7 +26,7 @@ Your course grade will be calculated as follows:
 
 3. Research paper presentation (10/20)
 
-* In-class mini-exam will be on the subjects covered in the first five sessions. You can bring ** four A4 sheets ** (eight pages recto-verso) with your notes to use during the exam. No other material or electronics is allowed.
+* In-class mini-exam will be on the subjects covered in the first five sessions. You can bring ** four A4 sheets ** (eight pages recto-verso) with your notes to use during the exam. No other material or electronics is allowed. The exam will be around 1 hour, at the end of Session 6.
 
 * Research paper list will be announced later in the course.
 
