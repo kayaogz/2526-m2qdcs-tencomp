@@ -10,9 +10,9 @@ Please make sure that your name appears in the list of registered students (if n
 
 ## Session 4: Tensor networks and algorithms
 
-## Session 5: Lab session
+## Session 5: Tensor network computational challenges, applications, algorithms (+mini exam)
 
-## Session 6: Tensor network computational challenges, applications, algorithms (+mini exam)
+## Session 6: Lab session
 
 ## Session 7: Research paper presentations
 
