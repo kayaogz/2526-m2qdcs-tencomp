@@ -40,6 +40,7 @@ Your course grade will be calculated as follows:
 * For QMI students, send me **one e-mail per group** indicating the names of two people in your group, and ordered list of of articles in the order of your preference. You must include **all articles in C? and B? groups** (see below). You can put some articles from the A? group if you wish.
 * I need the list by **17/02 class session** so we can fix the assignments.
 * You will have 15 minutes to present + 5-10 minutes of questions. Do not spent time on unnecessary tensor and decompositions background that we saw in class; dive straight into the application/method/algorithm/implementation etc.
+* You will find the PDF of the papers under the papers/ folder
 
 
 ## HPC/Computing
