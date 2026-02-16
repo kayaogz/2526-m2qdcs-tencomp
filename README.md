@@ -32,7 +32,7 @@ Your course grade will be calculated as follows:
 
 * Session 7 will be held in two seperate slots (one for QDCS one for QMI students. You are welcome to join both if your calendar permits).
 
-# Papers for presentation
+# Research paper presentations
 
 ## General rules and guidelines
 * For presentations, please find a partner/binome. If you cannot find a partner, you can present solo but this should be a last resort only.
