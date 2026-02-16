@@ -32,6 +32,65 @@ Your course grade will be calculated as follows:
 
 * Session 7 will be held in two seperate slots (one for QDCS one for QMI students. You are welcome to join both if your calendar permits).
 
+# Papers for presentation
+
+## HPC/Computing
+
+A1 Application performance modeling via tensor completion
+
+A2 Accelerating Tensor-train Decomposition on Graph Neural Networks
+
+A3 Accelerating sparse tensor decomposition using adaptive linearized representation
+
+A4 Parallel tensor compression for large-scale scientific data
+
+A5 Parallel nonnegative CP decomposition of dense tensors
+
+A6 Distributed-Memory DMRG via Sparse and Dense Parallel Tensor Contractions
+
+A7 Scalable Sparse Tensor Decompositions in Distributed Memory Systems
+
+A8 An exploration of optimization algorithms for high performance tensor completion
+
+
+
+## Tensor numerical methods/algorithms/simulations/contractions
+
+B1 Low-rank explicit qtt representation of the laplace operator and its inverse
+
+B2 TT-cross approximation for multidimensional arrays
+
+B3 Mixed precision iterative refinement for low-rank matrix and tensor approximations
+
+B4 Near-Optimal Contraction Strategies for the Scalar Product in the Tensor-Train Format
+
+B5 Discovering faster matrix multiplication algorithms with reinforcement learning
+
+B6 Speeding-up convolutional neural networks using fine-tuned cp-decomposition (1-person)
+
+B7 A massively parallel tensor contraction framework for coupled-cluster computations
+
+
+
+## Quantum computing / applications
+
+C1 Simulating quantum computation by contracting tensor networks
+
+C2 Hyper-optimized tensor network contraction
+
+C3 Functional Tensor-Train Chebyshev Method for Multidimensional Quantum Dynamics Simulations
+
+C4 Tensor-train split-operator Fourier transform (TT-SOFT) method: Multidimensional nonadiabatic quantum dynamics
+
+C5 Synergistic pretraining of parametrized quantum circuits via tensor networks
+
+C6 Towards quantum machine learning with tensor networks
+
+C7 Quantum circuit matrix product state ansatz for large-scale simulations of molecules
+
+C8 Ultrafast ab-initio Quantum Chemistry Using Matrix Product States
+
+
 # References
 
 * Tensor Decompositions for Data Science: https://users.wfu.edu/ballard/pdfs/tensor_textbook.pdf
