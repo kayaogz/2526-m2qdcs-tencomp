@@ -36,8 +36,8 @@ Your course grade will be calculated as follows:
 
 ## General rules and guidelines
 * For presentations, please find a partner/binome. If you cannot find a partner, you can present solo but this should be a last resort only.
-* For QDCS students, send me **one e-mail per group** indicating the names of two people in your group, and ordered list of of articles in the order of your preference. You must include **all articles in A? and B? groups** (see below).
-* For QMI students, send me **one e-mail per group** indicating the names of two people in your group, and ordered list of of articles in the order of your preference. You must include **all articles in C? and B? groups** (see below).
+* For QDCS students, send me **one e-mail per group** indicating the names of two people in your group, and ordered list of of articles in the order of your preference. You must include **all articles in A? and B? groups** (see below). You can put some articles from the C? group if you wish.
+* For QMI students, send me **one e-mail per group** indicating the names of two people in your group, and ordered list of of articles in the order of your preference. You must include **all articles in C? and B? groups** (see below). You can put some articles from the A? group if you wish.
 * I need the list by **17/02 class session** so we can fix the assignments.
 * You will have 15 minutes to present + 5-10 minutes of questions. Do not spent time on unnecessary tensor and decompositions background that we saw in class; dive straight into the application/method/algorithm/implementation etc.
 
