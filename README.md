@@ -79,6 +79,8 @@ B6 Speeding-up convolutional neural networks using fine-tuned cp-decomposition (
 
 B7 A massively parallel tensor contraction framework for coupled-cluster computations
 
+B8 Computing dense tensor decompositions with optimal dimension trees
+
 
 
 ## Quantum computing / applications
